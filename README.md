@@ -3,7 +3,7 @@ ClearLens
 
 Clear Lens - JQuery Plugin
 
-To implement the plugin you have to include the pixastic library. and call the plugin in $(window).load event, Beacuse for image processing first the image should be loaded. Hope you all know $(window).load will be triggered after all the assets are loaded.
+To implement the plugin you have to include the pixastic library. and call the plugin in $(window).load event, Because for image processing first the image should be loaded. Hope you all know $(window).load will be triggered after all the assets are loaded.
 
 <h2>How to use?</h2>
 It is very simple to implement the plugin

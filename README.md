@@ -32,3 +32,5 @@ blur - Blur Amount</br>
 
 </li>
 </ol>
+
+<h2><a href="http://jsfiddle.net/ajai/k8Ube/" target="_blank">Demo</a></h2>
